@@ -5,3 +5,7 @@ https://pixeldrain.com/api/file/gWUEMQXy?/movie/myvideo.mp4
 https://pixeldrain.com/api/file/QEADTDY2?/movie/myvideo2.mp4
 #EXTINF:-1 group-title="Movies",My Video 3
 https://pixeldrain.com/api/file/byW4KWVF?/movie/myvideo3.mp4
+#EXTINF:-1 group-title="Movies",My Video 4
+https://pixeldrain.com/api/filesystem/VgBccYUy?/movie/myvideo4.mp4
+#EXTINF:-1 group-title="Movies",My Video 5
+https://cdn.pvvstream.pro/videos/-221282312/456239033/vid_720p.mp4?rs=720000&rb=2796202&secure=KdNmp2ocDkCYaCh7k1licA%3D%3D%2C1793333298&dl=1&/movie/myvideo5.mp4
