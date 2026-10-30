@@ -1,13 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movies",TEST 1 - Standard VOD
+# 1
+#EXTINF:-1 group-title="Movies",TEST 01 - Movies
 https://pixeldrain.com/api/file/gWUEMQXy
 
-#EXTINF:-1 tvg-type="movie" group-title="Movies",TEST 2 - Movie Type
+# 2
+#EXTINF:-1 group-title="VOD",TEST 02 - VOD
 https://pixeldrain.com/api/file/gWUEMQXy
 
-#EXTINF:-1 content-type="movie" group-title="Movies",TEST 3 - Content Type
+# 3
+#EXTINF:-1 group-title="Video On Demand",TEST 03 - Video On Demand
 https://pixeldrain.com/api/file/gWUEMQXy
 
-#EXTINF:-1 type="movie" group-title="VOD",TEST 4 - VOD Type
+# 4
+#EXTINF:-1 tvg-type="movie",TEST 04 - TVG Movie
+https://pixeldrain.com/api/file/gWUEMQXy
+
+# 5
+#EXTINF:-1 type="movie",TEST 05 - Movie Type
+https://pixeldrain.com/api/file/gWUEMQXy
+
+# 6
+#EXTINF:-1 content-type="movie",TEST 06 - Content Type
+https://pixeldrain.com/api/file/gWUEMQXy
+
+# 7
+#EXTINF:-1 media-type="movie",TEST 07 - Media Type
+https://pixeldrain.com/api/file/gWUEMQXy
+
+# 8
+#EXTINF:-1 tvg-type="vod",TEST 08 - TVG VOD
+https://pixeldrain.com/api/file/gWUEMQXy
+
+# 9
+#EXTINF:-1 group-title="Movies" tvg-type="movie",TEST 09 - Movies Plus
+https://pixeldrain.com/api/file/gWUEMQXy
+
+# 10
+#EXTINF:-1 group-title="VOD" type="movie",TEST 10 - VOD Plus
 https://pixeldrain.com/api/file/gWUEMQXy
