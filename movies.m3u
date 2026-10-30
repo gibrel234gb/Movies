@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="movie001" tvg-name="My Video" group-title="Movies" type="movie",My Video
+
+#EXTINF:-1 group-title="Movies",TEST 1 - Standard VOD
+https://pixeldrain.com/api/file/gWUEMQXy
+
+#EXTINF:-1 tvg-type="movie" group-title="Movies",TEST 2 - Movie Type
+https://pixeldrain.com/api/file/gWUEMQXy
+
+#EXTINF:-1 content-type="movie" group-title="Movies",TEST 3 - Content Type
+https://pixeldrain.com/api/file/gWUEMQXy
+
+#EXTINF:-1 type="movie" group-title="VOD",TEST 4 - VOD Type
 https://pixeldrain.com/api/file/gWUEMQXy
