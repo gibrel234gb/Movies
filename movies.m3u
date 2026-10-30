@@ -1,5 +1,3 @@
 #EXTM3U
-
-# 1
-#EXTINF:-1 group-title="Movies",TEST 01 - Movies
+#EXTINF:-1,TEST MOVIE
 https://pixeldrain.com/api/file/gWUEMQXy
