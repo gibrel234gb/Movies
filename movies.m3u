@@ -1,6 +1,3 @@
 #EXTM3U
-#EXTINF:-1,TEST MOVIE
-https://pixeldrain.com/api/file/gWUEMQXy
-#EXTM3U
-#EXTINF:-1,My Video
+#EXTINF:-1 tvg-id="" tvg-name="My Video" tvg-logo="" group-title="Movies",My Video
 https://pixeldrain.com/api/file/gWUEMQXy
